@@ -1,0 +1,6 @@
+test/
+node_modules/
+.gitignore
+.npmignore
+LICENSE
+README.md 
