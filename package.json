@@ -1,6 +1,6 @@
 {
   "name": "s3-url-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parse aws S3 urls. Extract region, bucket name, object key.",
   "main": "index.js",
   "scripts": {
