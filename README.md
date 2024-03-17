@@ -1,3 +1,6 @@
+## Attention
+I haven't been able to work on this for a while. There are some formats that are not supported
+
 ### S3 URL PARSER
 This library helps you extract the following information from S3 urls of any format:
 - bucket name
